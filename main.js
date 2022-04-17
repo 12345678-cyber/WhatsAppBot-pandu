@@ -15,7 +15,7 @@
 //                                                                                                                                                     //
 //═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-//Obfuscated By AlienAlfa
+//Obfuscated By Aman-pal
 // Unecrypted file Willbe relesed Soon
 //Full file will be relised After all BUGS Has been Fixed
 
