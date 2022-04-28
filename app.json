@@ -12,12 +12,12 @@
         "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": true,
-            "value": "917505344967"
+            "value": "917505344967;918979156884"
         }, 
         "OWNER_NAME": {
             "description": "Pleas enter your Name.",
             "required": true,
-        "value": "Aman Pal"
+        "value": "Aman Pal;Dj Pandu"
         }, 
         "WORK_TYPE": {
             "description": "Public or Private(true = Private, False = Public).",
@@ -57,7 +57,7 @@
         "AUTO_TYPE": {
             "description": "Automatic typing status.(true or false).",
             "required": true,
-                "value": "false"
+                "value": "true"
         }
 	},
 	"buildpacks": [
